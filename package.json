@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "html-minifier": "~0.5.0",
+    "html-minifier": "https://github.com/nancoder/html-minifier/tarball/af096e033382322849bb1400682255db0a740c0c",
     "grunt-lib-contrib": "~0.6.1"
   },
   "devDependencies": {
